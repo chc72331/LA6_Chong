@@ -68,7 +68,7 @@
   "pRight": "",
   "pTop": "",
   "passwordToggle": "",
-  "placeholder": "Enter text here",
+  "placeholder": "2nd Number",
   "popBody": "Body",
   "popClose": "hover",
   "popPosition": "",
@@ -87,5 +87,5 @@
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": 153
+  "width": 150
 }
